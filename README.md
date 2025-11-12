@@ -33,7 +33,7 @@ This project was developed to explore how **AI and Computer Vision** can help wi
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/<your-username>/garbage-type-detection-cnn.git
+   git clone https://github.com/VarijChawla/garbage-type-detection-cnn.git
    cd garbage-type-detection-cnn
    ```
 
